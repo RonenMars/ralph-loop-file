@@ -1,0 +1,13 @@
+{
+  "name": "ralph-loop-file",
+  "version": "1.0.0",
+  "description": "Ralph Loop variant that reads its prompt from a file — safe for multi-line prompts containing apostrophes, backticks, or shell-special characters",
+  "author": {
+    "name": "Ronen Bar-Vichman",
+    "url": "https://github.com/RonenMars"
+  },
+  "homepage": "https://github.com/RonenMars/ralph-loop-file",
+  "repository": "https://github.com/RonenMars/ralph-loop-file",
+  "license": "MIT",
+  "keywords": ["ralph-loop", "claude-code", "loop", "prompt-file", "playwright", "e2e"]
+}
